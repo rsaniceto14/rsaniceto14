@@ -1,5 +1,19 @@
 ### Hello World 👋
 
+#### Sou Raphael Aniceto
+
+#### 👨‍💻 Graduado Bacharel em Sistemas de Informação. Hoje atuando como desenvolvedor de software, apaixonado por transformar ideias em soluções digitais inovadoras. Com experiência sólida em desenvolvimento web e mobile, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Capacidade comprovada de trabalhar em equipe e entregar projetos de alta qualidade dentro do prazo. Busco constantemente desafios que me permitam crescer profissionalmente e contribuir de forma significativa para o sucesso da equipe e da empresa."
+
+#### 💼 Desenvolvedor Web Full Stack - Support Informática
+
+#### 🔧 Habilidades Técnicas:
+
+####    Linguagens: JavaScript/TypeScript, HTML, CSS, PHP, etc.
+####    Frameworks: Node.js, React, Next.js, Laravel , Flutter , Tailwind CSS, etc.
+####    Banco de Dados: SQL (MySQL, PostgreSQL, SQL Server);
+####    Ferramentas de Versionamento: Git, GitHub, GitLab, etc.
+####    Outras: Docker, RESTful APIs, Firebase, etc.
+
 <!--
 **rsaniceto14/rsaniceto14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,7 +62,7 @@ Here are some ideas to get you started:
 </div>
           
             
-          
+#### 👀 Interessado em colaborar em projetos inovadores e desafiadores.
           
           
           
