@@ -2,7 +2,7 @@
 
 #### Sou Raphael Aniceto
 
-#### 👨‍💻 Graduado Bacharel em Sistemas de Informação. Hoje atuando como desenvolvedor de software, apaixonado por transformar ideias em soluções digitais inovadoras. Com experiência sólida em desenvolvimento web e mobile, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Capacidade comprovada de trabalhar em equipe e entregar projetos de alta qualidade dentro do prazo. Busco constantemente desafios que me permitam crescer profissionalmente e contribuir de forma significativa para o sucesso da equipe e da empresa."
+#### 👨‍💻 Desenvolvedor Full Stack com sólida formação em Sistemas de Informação e ampla experiência no desenvolvimento de soluções web e mobile. Ao longo da minha trajetória, tenho sido capaz de transformar desafios complexos em resultados tangíveis, com foco em inovação e qualidade. Minha experiência inclui desde a criação de sistemas administrativos robustos até a gestão de empreendimentos próprios, o que me proporciona uma visão estratégica valiosa. Estou sempre em busca de aprender novas tecnologias e práticas para melhorar continuamente minha capacidade técnica e de liderança.
 
 #### 💼 Desenvolvedor Web Full Stack - Support Informática
 
