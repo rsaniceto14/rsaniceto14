@@ -26,7 +26,8 @@ jobs:
           github_user_name: rsaniceto14 #Seu usuario
           gif_out_path: github-contribution-grid-snake.gif
           svg_out_path: github-contribution-grid-snake.svg
-          theme: dark
+          theme: github-dark
+
 
       - run: git status
 
