@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 #### 👀 Interessado em colaborar em projetos inovadores e desafiadores.
           
           
-          
+![snake gif](https://github.com/rsaniceto14/rsaniceto14/blob/main/github-contribution-grid-snake.svg)          
           
           
           
