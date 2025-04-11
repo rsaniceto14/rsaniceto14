@@ -24,8 +24,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: rsaniceto14 #Seu usuario
-          gif_out_path: github-contribution-grid-snake.gif
-          svg_out_path: github-contribution-grid-snake.svg
+          gif_out_path: main/github-contribution-grid-snake.gif
+          svg_out_path: main/github-contribution-grid-snake.svg
           theme: github-dark
 
 
@@ -43,6 +43,6 @@ jobs:
         with:
           # the output branch we mentioned above
           target_branch: output
-          build_dir: dist
+          build_dir: main
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_TOKEN }}
