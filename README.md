@@ -11,6 +11,8 @@ I don't just code — I solve problems. My focus is on building scalable, effici
 Now, I'm seeking international remote opportunities where I can contribute my expertise and grow alongside world-class teams.
 
 🚀 Tech: Flutter • TypeScript • NestJS • PostgreSQL • Prisma • REST APIs • Git
+
+
 🧠 Interests: iOS Development (Swift), AI Integration, Business Strategy
 
 <!--
