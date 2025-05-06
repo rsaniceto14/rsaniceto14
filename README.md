@@ -1,18 +1,17 @@
 ### Hello World 👋
 
-#### Sou Raphael Aniceto
+#### Raphael Aniceto
 
-#### 👨‍💻 Desenvolvedor Full Stack com sólida formação em Sistemas de Informação e ampla experiência no desenvolvimento de soluções web e mobile. Ao longo da minha trajetória, tenho sido capaz de transformar desafios complexos em resultados tangíveis, com foco em inovação e qualidade. Minha experiência inclui desde a criação de sistemas administrativos robustos até a gestão de empreendimentos próprios, o que me proporciona uma visão estratégica valiosa. Estou sempre em busca de aprender novas tecnologias e práticas para melhorar continuamente minha capacidade técnica e de liderança.
+#### 👨‍💻 I'm a Full Stack Developer with a strong background in building real-world solutions for healthcare and enterprise clients.
 
-#### 💼 Desenvolvedor Web Full Stack - Support Informática
+In my latest projects, I designed and developed systems for Unimed units and Cooperciso, handling over 1,000 daily requests in patient triage and medical authorizations. I integrated WhatsApp APIs, created mobile apps with Flutter, and built robust backends with Laravel and PostgreSQL.
 
-#### 🔧 Habilidades Técnicas:
+I don't just code — I solve problems. My focus is on building scalable, efficient systems that bring real impact to users and teams. I also have experience with DevOps, cloud services, and database optimization.
 
-####    Linguagens: JavaScript/TypeScript, HTML, CSS, PHP, etc.
-####    Frameworks: Node.js, React, Next.js, Laravel , Flutter , Tailwind CSS, etc.
-####    Banco de Dados: SQL (MySQL, PostgreSQL, SQL Server);
-####    Ferramentas de Versionamento: Git, GitHub, GitLab, etc.
-####    Outras: Docker, RESTful APIs, Firebase, etc.
+Now, I'm seeking international remote opportunities where I can contribute my expertise and grow alongside world-class teams.
+
+🚀 Tech: Flutter • TypeScript • NestJS • PostgreSQL • Prisma • REST APIs • Git
+🧠 Interests: iOS Development (Swift), AI Integration, Business Strategy
 
 <!--
 **rsaniceto14/rsaniceto14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,7 +62,7 @@ Here are some ideas to get you started:
 </div>
           
             
-#### 👀 Interessado em colaborar em projetos inovadores e desafiadores.
+#### 👀 Interested in collaborating on innovative and challenging projects.
           
           
 
