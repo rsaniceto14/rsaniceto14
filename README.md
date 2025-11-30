@@ -15,26 +15,12 @@ Now, I'm seeking international remote opportunities where I can contribute my ex
 
 🧠 Interests: iOS Development (Swift), AI Integration, Business Strategy
 
-<!--
-**rsaniceto14/rsaniceto14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div>
+<!-- <div>
 <a href="https://github.com/rsaniceto14">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaniceto14&layout=compact&langs_count=7&theme=transparent"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rsaniceto14&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
  ![Status](https://github.com/rsaniceto14/rsaniceto14/blob/main/profile-3d-contrib/profile-night-green.svg) 
 
