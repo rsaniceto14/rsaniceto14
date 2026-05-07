@@ -162,20 +162,6 @@ I'm actively preparing for remote opportunities with global teams, especially co
 
 ---
 
-## 📈 GitHub Stats
-
-```md
-<div>
-<a href="https://github.com/rsaniceto14">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaniceto14&layout=compact&langs_count=7&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rsaniceto14&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-</div>
-```
-
-![Status](https://github.com/rsaniceto14/rsaniceto14/blob/main/profile-3d-contrib/profile-night-green.svg)
-
----
-
 ## ⚡ Professional Goal
 
 To grow as an international iOS engineer building high-quality products used globally.
